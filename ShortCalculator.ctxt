@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ShortCalculator
+comment1.params=input1\ input2
+comment1.target=short\ unsignedSum(short,\ short)
+comment2.params=input1\ input2
+comment2.target=short\ unsignedDiff(short,\ short)
+comment3.params=input1\ input2
+comment3.target=short\ unsignedProduct(short,\ short)
+comment4.params=input1\ input2
+comment4.target=short\ unsignedQuotient(short,\ short)
+comment5.params=input1\ input2
+comment5.target=short\ unsignedRemainder(short,\ short)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
